@@ -9,8 +9,8 @@
 
 ## Business Understanding & Purpose
 
-By analyzing shopping habits and identifying different customer profiles, Instacart can develop targeted marketing strategies. The main goal is to attract more customers, keep them engaged, and boost sales by reaching various customer groups with relevant and effective campaigns.
-The aim of this exercise is to utilize Python for cleaning, aggregating, categorizing, and visualizing data, based on [Instacart Online Grocery Shopping Dataset 2017](www.instacart.com/datasets/grocery-shopping-2017) (via Kaggle on the 03/06/2024).
+By analyzing shopping habits and identifying different customer profiles, Instacart can develop targeted marketing strategies. The main goal is to attract more customers, keep them engaged, and boost sales by reaching various customer groups with relevant and effective marketing campaigns.
+The aim of this exercise is to utilize Python for cleaning, aggregating, categorizing, and visualizing data, based on [Instacart Online Grocery Shopping Dataset 2017](www.instacart.com/datasets/grocery-shopping-2017) (via Kaggle, on the 03/06/2024).
 
 ## Data & Tools
 ### 1)	Datasets
