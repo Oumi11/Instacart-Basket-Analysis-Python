@@ -69,7 +69,7 @@ When examining the ordering habits of different customer profiles, we find sever
 
 However, significant differences emerge when looking at income categories. **High earners, who form a smaller group, tend to spend less overall.** To increase their share, Instacart could **offer a greater variety of high-range products**. This strategy should be balanced by **providing promotions to other income groups when setting up ads**.
 
-For increasing orders in the** bulk product category** for example, **targeting ads at adults or middle-aged adults who are married with dependents could be effective**.
+For increasing orders in the **bulk product category** for example, **targeting ads at adults or middle-aged adults who are married with dependents could be effective**.
 
-Lastly,** offering incentives** such as loyalty points or bonuses could encourage customers to return more frequently, fostering customer loyalty.
+Lastly, **offering incentives** such as loyalty points or bonuses could encourage customers to return more frequently, fostering customer loyalty.
 
