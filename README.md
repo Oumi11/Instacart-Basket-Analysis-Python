@@ -57,13 +57,13 @@ The graph shows that the departments with the **highest order amounts are produc
 
 <img src="pictures%20and%20visualization/shares_department.png" alt="shares_department" width="500">
 
-### 5. Is there a connection between age and family status in terms of ordering habits?
+### _6. Is there a connection between age and family status in terms of ordering habits?_
 
 On average, **divorced/widowed middle age users are the ones spending the most**, followed by young adult living with parents and siblings and married adult.
 
 <img src="pictures%20and%20visualization/heat_map_famstat_age.png" alt="heat_map_famstat_age" width="400">
 
-### _ 5. What differences can you find in ordering habits of different customer profiles?_
+### _7. What differences can you find in ordering habits of different customer profiles?_
 
 When examining the ordering habits of different customer profiles, we find several notable differences. In general, **ordering habits across different departments are quite similar, as they mostly consist of essential grocery products**, which are needed by all customer categories.
 
