@@ -32,4 +32,10 @@ For the purpose of this exercise multiple datasets have been merged together (fo
 
 To optimize ad scheduling, it's important to consider the busiest days and times for orders. The graph **shows that Saturdays and Sundays have the highest order volumes**, likely due to users having more free time on weekends. The histogram indicates **a significant peak in orders between 10 AM and 3 PM**, with consistently high orders extending into the evening. Conversely, the **early morning hours between 12 AM and early morning see the fewest orders**. **Therefore, scheduling ads during the early morning hours and on weekdays before the weekend could effectively direct users to make purchases during peak ordering times**.
 
+![num_ords_per_week](pictures%20and%20visualization/num_ords_per_week.png)   ![freq_ords_hour](pictures%20and%20visualization/freq_ords_hour.png) 
 
+### _2.  Are there particular times of the day when people spend the most money? This information might inform the sales team the type of products they advertise at these times._
+
+When looking at the chart of spending per hour, it shows that customers tend to **spend the most money early in the morning and late in the evening**, **with a noticeable dip in spending during the late morning hours around 9-10 AM**. Spending stabilizes in the afternoon and slightly increases again towards the end of the day, **peaking around 8 PM**. With this information in mind, **it is advised to advertise higher-priced products early in the morning and late in the evening when customers are more likely to spend more money.**
+
+<img src="pictures%20and%20visualization/spending_per_hour.png" alt="spending_per_hour" width="400">
