@@ -14,7 +14,7 @@ The aim of this exercise is to utilize Python for cleaning, aggregating, categor
 
 ## Data & Tools
 ### 1)	Datasets
-For the purpose of this exercise multiple datasets have been merged together (found the file 02 Data):
+For the purpose of this exercise multiple datasets have been merged together (found in the file 02 Data):
 - Customers
 - Departments
 - Orders
@@ -27,6 +27,7 @@ For the purpose of this exercise multiple datasets have been merged together (fo
 - Spicy
 
 ## Key Questions and Findings
+Below are some of the key questions addressed in this project to provide an overview. The Python scripts can be found in the folder 03.Scripts, and the detailed final report is available under the title "Instacart Final Report".
 
 ### _1. The sales team needs to know what the busiest days of the week and hours of the day are (i.e., the days and times with the most orders) in order to schedule ads at times when there are fewer orders._
 
@@ -44,5 +45,21 @@ When looking at the chart of spending per hour, it shows that customers tend to 
 
 ### 3. _Instacart has a lot of products with different price tags. Marketing and sales want to use simpler price range groupings to help direct their efforts._
 
-During the analysis, a new column was created by using conditional logic in a form of "if-statements" to categorize the products into three different price ranges
+During the analysis, a new column was created by using conditional logic to categorize the products into three different price ranges
+
+![price_range_loc_code](pictures%20and%20visualization/price_range_loc_code.png) 
+
+
+### _4. Are there certain types of products that are more popular than others? The marketing and sales teams want to know which departments have the highest frequency of product orders._
+
+The graph shows that the departments with the **highest order amounts are produce, dairy and eggs, snacks, and beverages.**
+**Directing marketing efforts towards the departments with less than 5% market share** could make a significant difference.
+
+<img src="pictures%20and%20visualization/shares_department.png" alt="shares_department" width="500">
+
+### 5. Is there a connection between age and family status in terms of ordering habits?
+
+On average, **divorced/widowed middle age users are the ones spending the most**, followed by young adult living with parents and siblings and married adult.
+
+<img src="pictures%20and%20visualization/correl_age_status.png" alt="correl_age_status" width="400">
 
