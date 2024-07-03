@@ -39,3 +39,10 @@ To optimize ad scheduling, it's important to consider the busiest days and times
 When looking at the chart of spending per hour, it shows that customers tend to **spend the most money early in the morning and late in the evening**, **with a noticeable dip in spending during the late morning hours around 9-10 AM**. Spending stabilizes in the afternoon and slightly increases again towards the end of the day, **peaking around 8 PM**. With this information in mind, **it is advised to advertise higher-priced products early in the morning and late in the evening when customers are more likely to spend more money.**
 
 <img src="pictures%20and%20visualization/spending_per_hour.png" alt="spending_per_hour" width="400">
+
+
+
+### 3. _Instacart has a lot of products with different price tags. Marketing and sales want to use simpler price range groupings to help direct their efforts._
+
+During the analysis, a new column was created by using conditional logic in a form of "if-statements" to categorize the products into three different price ranges
+
