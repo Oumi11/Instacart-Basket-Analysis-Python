@@ -27,7 +27,7 @@ For the purpose of this exercise multiple datasets have been merged together (fo
 - Spicy
 
 ## Key Questions and Findings
-Below are some of the key questions addressed in this project to provide an overview. The Python scripts can be found in the folder 03.Scripts, and the detailed final report is available under the title "Instacart Final Report".
+### Below are some of the key questions addressed in this project to provide an overview. The Python scripts can be found in the folder 03.Scripts, and the detailed final report is available under the title "Instacart Final Report".
 
 ### _1. The sales team needs to know what the busiest days of the week and hours of the day are (i.e., the days and times with the most orders) in order to schedule ads at times when there are fewer orders._
 
@@ -57,13 +57,13 @@ The graph shows that the departments with the **highest order amounts are produc
 
 <img src="pictures%20and%20visualization/shares_department.png" alt="shares_department" width="500">
 
-### _6. Is there a connection between age and family status in terms of ordering habits?_
+### _5. Is there a connection between age and family status in terms of ordering habits?_
 
 On average, **divorced/widowed middle age users are the ones spending the most**, followed by young adult living with parents and siblings and married adult.
 
 <img src="pictures%20and%20visualization/heat_map_famstat_age.png" alt="heat_map_famstat_age" width="400">
 
-### _7. What differences can you find in ordering habits of different customer profiles?_
+### _6. What differences can you find in ordering habits of different customer profiles?_
 
 When examining the ordering habits of different customer profiles, we find several notable differences. In general, **ordering habits across different departments are quite similar, as they mostly consist of essential grocery products**, which are needed by all customer categories.
 
