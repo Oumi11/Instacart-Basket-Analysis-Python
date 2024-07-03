@@ -14,7 +14,7 @@ The aim of this exercise is to utilize Python for cleaning, aggregating, categor
 
 ## Data & Tools
 ### 1)	Datasets
-For the purpose of this exercise multiple datasets have been merged together (found in the file 02 Data):
+For the purpose of this exercise multiple datasets have been merged together:
 - Customers
 - Departments
 - Orders
