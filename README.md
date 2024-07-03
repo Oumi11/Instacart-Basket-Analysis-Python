@@ -61,5 +61,15 @@ The graph shows that the departments with the **highest order amounts are produc
 
 On average, **divorced/widowed middle age users are the ones spending the most**, followed by young adult living with parents and siblings and married adult.
 
-<img src="pictures%20and%20visualization/correl_age_status.png" alt="correl_age_status" width="400">
+<img src="pictures%20and%20visualization/heat_map_famstat_age.png" alt="heat_map_famstat_age" width="400">
+
+### _ 5. What differences can you find in ordering habits of different customer profiles?_
+
+When examining the ordering habits of different customer profiles, we find several notable differences. In general, **ordering habits across different departments are quite similar, as they mostly consist of essential grocery products**, which are needed by all customer categories.
+
+However, significant differences emerge when looking at income categories. **High earners, who form a smaller group, tend to spend less overall.** To increase their share, Instacart could **offer a greater variety of high-range products**. This strategy should be balanced by **providing promotions to other income groups when setting up ads**.
+
+For increasing orders in the** bulk product category** for example, **targeting ads at adults or middle-aged adults who are married with dependents could be effective**.
+
+Lastly,** offering incentives** such as loyalty points or bonuses could encourage customers to return more frequently, fostering customer loyalty.
 
